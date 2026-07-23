@@ -11,7 +11,7 @@ public class StarPyramid {
     static void pattern7(int n){
         for (int i = 0; i < n; i++) {
             // for space
-            for (int j = 0; j <(n-i) ; j++) {
+            for (int j = 0; j <(n-i-1) ; j++) {
                 System.out.print(" ");
             }
             // for star
@@ -19,7 +19,7 @@ public class StarPyramid {
                 System.out.print("*");
             }
             // for space
-            for (int j = 0; j <(n-i) ; j++) {
+            for (int j = 0; j <(n-i-1) ; j++) {
                 System.out.print(" ");
             }
             System.out.println();
