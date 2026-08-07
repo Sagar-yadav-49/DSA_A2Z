@@ -19,6 +19,4 @@ public class GenericMethod {
     <T> void printData(T data){ // this method will work for all type of data
         System.out.println(data);
     }
-
-
 }
