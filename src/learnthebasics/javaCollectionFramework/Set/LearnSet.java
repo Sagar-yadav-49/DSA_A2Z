@@ -1,4 +1,4 @@
-package javaCollectionFramework.Set;
+package learnthebasics.javaCollectionFramework.Set;
 
 import java.util.HashSet;
 import java.util.Objects;

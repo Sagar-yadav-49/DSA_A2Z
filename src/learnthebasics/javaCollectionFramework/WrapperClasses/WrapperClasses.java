@@ -1,6 +1,4 @@
-package javaCollectionFramework.WrapperClasses;
-
-import com.sun.security.jgss.GSSUtil;
+package learnthebasics.javaCollectionFramework.WrapperClasses;
 
 public class WrapperClasses {
     public static void main(String[] args) {

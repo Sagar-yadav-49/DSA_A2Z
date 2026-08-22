@@ -1,4 +1,4 @@
-package javaCollectionFramework.ComparableAndComparator;
+package learnthebasics.javaCollectionFramework.ComparableAndComparator;
 
 import java.util.*;
 

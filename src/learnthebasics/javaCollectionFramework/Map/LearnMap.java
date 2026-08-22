@@ -1,4 +1,4 @@
-package javaCollectionFramework.Map;
+package learnthebasics.javaCollectionFramework.Map;
 
 import java.util.Collection;
 import java.util.HashMap;

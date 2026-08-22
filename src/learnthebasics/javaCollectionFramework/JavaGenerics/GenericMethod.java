@@ -1,4 +1,4 @@
-package javaCollectionFramework.JavaGenerics;
+package learnthebasics.javaCollectionFramework.JavaGenerics;
 
 public class GenericMethod {
     public static void main(String[] args) {

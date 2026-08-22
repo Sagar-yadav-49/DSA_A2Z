@@ -1,4 +1,4 @@
-package javaCollectionFramework.Queue;
+package learnthebasics.javaCollectionFramework.Queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;

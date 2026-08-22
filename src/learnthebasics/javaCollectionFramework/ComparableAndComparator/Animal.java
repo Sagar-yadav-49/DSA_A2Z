@@ -1,4 +1,4 @@
-package javaCollectionFramework.ComparableAndComparator;
+package learnthebasics.javaCollectionFramework.ComparableAndComparator;
 
 // this class should have implements Comparable and its method "compareTo()" in order to done sorting
 public class Animal implements Comparable<Animal> {

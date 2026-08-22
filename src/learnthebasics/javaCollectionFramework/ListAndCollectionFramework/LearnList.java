@@ -1,4 +1,4 @@
-package javaCollectionFramework.ListAndCollectionFramework;
+package learnthebasics.javaCollectionFramework.ListAndCollectionFramework;
 
 import java.util.LinkedList;
 import java.util.List;

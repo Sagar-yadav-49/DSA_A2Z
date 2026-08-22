@@ -1,4 +1,4 @@
-package javaCollectionFramework.ListAndCollectionFramework;
+package learnthebasics.javaCollectionFramework.ListAndCollectionFramework;
 
 import java.util.ArrayList;
 import java.util.Iterator;

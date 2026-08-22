@@ -1,4 +1,4 @@
-package knowbasicmaths;
+package learnthebasics.knowbasicmaths;
 
 import java.util.Scanner;
 
